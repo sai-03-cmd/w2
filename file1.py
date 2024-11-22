@@ -1,2 +1,2 @@
 # This is a simple Python program
-print("Hello, World!")
+print("Hello World!")
